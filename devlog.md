@@ -1,7 +1,16 @@
 # Elastic Network Model - Normal Mode Analysis from PDB data
 
 ## Sophie Li
+### 05/03/21
+- Wrote most methods for tree construction (parse input, find covalent bonds, break cycles in each residue)
+- current usage: `python src/build_graphs.py path/to/input.cif path/to/radii.cif` (use depends on activating conda environment)
 
+To-do
+- Finish writing tree
+  - Break cycles, if any, in overall tree structure
+  - Fix omega and chi bonds by creating units (see paper)
+  - begin work/further research on elastic network model
+- Change structure of file (move methods to `utils` folder)
 ### 04/23/21
 
 - Started writing pseudocode for tree construction
@@ -37,6 +46,7 @@ for i= 0:len(atoms):
 			if 0.4 <= dist(atoms[i], atoms[j]) <= (cov[atoms[i].element] + cov[atoms[j].element] + 0.56):
 				atoms[i].neighbors.append(atoms[j])
 				atoms[j].neighbors.append(atoms[i])
+
 ```
 
 
