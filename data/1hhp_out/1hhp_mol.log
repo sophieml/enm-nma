@@ -1,0 +1,22 @@
+Log file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1hhp_out\1hhp_mol.log
+PDB file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1hhp.pdb
+Molecular file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1hhp_out\1hhp.mol
+Note file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1hhp_out\1hhp-note.txt
+  100.00   50.00
+
+Chains selected
+  ATOM        A *
+
+TITLE     THE THREE-DIMENSIONAL STRUCTURE OF THE ASPARTYL PROTEASE FROM THE HIV-
+
+TITLE    2 1 ISOLATE BRU                                                        
+
+The following atoms are removed from PDB data.
+  ATOM     68  CG  ARG A   8      37.584  51.732  -0.660  1.00 23.11           C  
+  ATOM     69  CD  ARG A   8      36.449  51.269  -1.532  1.00 27.73           C  
+  ATOM     70  NE  ARG A   8      35.723  50.113  -1.025  1.00 31.19           N  
+  ATOM     71  CZ  ARG A   8      34.915  50.120   0.047  1.00 33.17           C  
+  ATOM     72  NH1 ARG A   8      34.765  51.137   0.903  1.00 35.98           N  
+  ATOM     73  NH2 ARG A   8      34.235  49.016   0.305  1.00 37.95           N  
+
+Successfully finished!!

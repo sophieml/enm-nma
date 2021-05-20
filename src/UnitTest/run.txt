@@ -1,0 +1,4 @@
+python ../calculateNMA_pipeline.py ../../data/1hvr.pdb Output/
+
+Averaged fluctuation file for dihedral ENM: ../../data/1hvr_out/1hvr.flcatmA
+Averaged correlation matrix file for dihedral ENM: ../../data/1hvr_out/1hvr.crratmA

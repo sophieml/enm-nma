@@ -1,0 +1,51 @@
+Log file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_mol.log
+PDB file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva.pdb
+Molecular file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva.mol
+Note file : C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva-note.txt
+  100.00   50.00
+
+Chains selected
+  ATOM        C *
+  ATOM        D *
+  ATOM        A *
+  ATOM        B *
+
+TITLE     MG2+ BINDING TO THE ACTIVE SITE OF ECO RV ENDONUCLEASE: A             
+
+TITLE    2 CRYSTALLOGRAPHIC STUDY OF COMPLEXES WITH SUBSTRATE AND               
+
+TITLE    3 PRODUCT DNA AT 2 ANGSTROMS RESOLUTION                                
+
+The following atoms are removed from PDB data.
+  ATOM   1619  CG  ARG A 144      -1.032  23.818  -3.228  1.00 78.21           C  
+  ATOM   1620  CD  ARG A 144      -0.628  24.967  -2.310  1.00 85.21           C  
+  ATOM   1621  NE  ARG A 144      -1.676  25.261  -1.328  1.00 91.85           N  
+  ATOM   1622  CZ  ARG A 144      -1.635  26.253  -0.435  1.00 92.48           C  
+  ATOM   1623  NH1 ARG A 144      -0.594  27.072  -0.381  1.00 91.07           N  
+  ATOM   1624  NH2 ARG A 144      -2.644  26.432   0.412  1.00 91.81           N  
+  ATOM   1630  CG  LYS A 145       2.720  24.014 -10.433  1.00 76.74           C  
+  ATOM   1631  CD  LYS A 145       2.879  25.367 -11.132  1.00 83.14           C  
+  ATOM   1632  CE  LYS A 145       3.902  25.280 -12.268  1.00 86.79           C  
+  ATOM   1633  NZ  LYS A 145       4.338  26.617 -12.782  1.00 87.39           N  
+  ATOM   1788  CG  LYS A 164      -3.985  21.845   8.163  1.00 44.03           C  
+  ATOM   1789  CD  LYS A 164      -5.395  22.259   7.790  1.00 52.38           C  
+  ATOM   1790  CE  LYS A 164      -5.587  23.762   7.950  1.00 62.92           C  
+  ATOM   1791  NZ  LYS A 164      -6.906  24.212   7.402  1.00 65.90           N  
+  ATOM   2887  CG  LYS B  54      11.051  18.830 -16.384  1.00 33.73           C  
+  ATOM   2888  CD  LYS B  54      12.426  18.279 -16.091  1.00 39.42           C  
+  ATOM   2889  CE  LYS B  54      13.506  19.144 -16.716  1.00 50.39           C  
+  ATOM   2890  NZ  LYS B  54      14.846  18.488 -16.647  1.00 49.39           N  
+  ATOM   2993  CG  LYS B  67      -9.839  14.905  -7.213  1.00 59.43           C  
+  ATOM   2994  CD  LYS B  67     -11.129  15.608  -7.625  1.00 72.20           C  
+  ATOM   2995  CE  LYS B  67     -10.868  16.777  -8.586  1.00 76.92           C  
+  ATOM   2996  NZ  LYS B  67     -12.122  17.515  -8.942  1.00 74.93           N  
+  ATOM   3654  CG  LYS B 145      18.420  -7.896  10.621  1.00 69.03           C  
+  ATOM   3655  CD  LYS B 145      19.520  -8.662  11.332  1.00 74.45           C  
+  ATOM   3656  CE  LYS B 145      19.030 -10.035  11.772  1.00 71.33           C  
+  ATOM   3657  NZ  LYS B 145      20.135 -10.838  12.361  1.00 70.47           N  
+  ATOM   3812  CG  LYS B 164      22.715  -5.306  -4.882  1.00 50.47           C  
+  ATOM   3813  CD  LYS B 164      22.843  -6.801  -4.602  1.00 59.32           C  
+  ATOM   3814  CE  LYS B 164      24.299  -7.262  -4.589  1.00 68.91           C  
+  ATOM   3815  NZ  LYS B 164      24.749  -7.841  -5.896  1.00 68.31           N  
+
+Successfully finished!!

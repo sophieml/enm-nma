@@ -1,0 +1,60 @@
+     Welcome to PDBETA
+
+Date :  May 18, 2021
+Title:  Normal mode analysis: 1rva
+INPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva.mol
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva-note.txt
+No of modes used in the calculation :      5
+Interaction parameters
+ 1-4 interactions :         1.000       5.000     100.000
+ 1-5 interactions :         1.000       5.000     100.000
+ Chemical bonds treated with a loop-closing :       100.000
+Temperature adjustment:  Set to mean displacements of atoms       0.500 A
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva.flcatmA
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva.crratmA
+Option for correlations between atoms  : 1
+
+TITLE     MG2+ BINDING TO THE ACTIVE SITE OF ECO RV ENDONUCLEASE: A             
+
+NUMVAR, NUMATM, NUMVAR2, NUMATM2:   2589  4477  2571  4462
+NUMSS:     88
+NINT:       0
+MSTC:       2
+NCHAIN:     4
+
+Computation <Fluctuation of atoms> is completed.
+Computation <Correlation between atoms> is completed.
+
+Animation  :   No. of frames= 11,   Mean displacements=    0.50
+
+Mode No.   :    1
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_1.flcatmE
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_1-anm.pdb
+Computation <Atoms> is completed.
+Computation <Animation data for jV and Jmol> is completed.
+
+Mode No.   :    2
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_2.flcatmE
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_2-anm.pdb
+Computation <Atoms> is completed.
+Computation <Animation data for jV and Jmol> is completed.
+
+Mode No.   :    3
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_3.flcatmE
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_3-anm.pdb
+Computation <Atoms> is completed.
+Computation <Animation data for jV and Jmol> is completed.
+
+Mode No.   :    4
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_4.flcatmE
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_4-anm.pdb
+Computation <Atoms> is completed.
+Computation <Animation data for jV and Jmol> is completed.
+
+Mode No.   :    5
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_5.flcatmE
+OUTPUT file :  C:\Users\smith\Documents\work\csc334\enm-nma\data\1rva_out\1rva_5-anm.pdb
+Computation <Atoms> is completed.
+Computation <Animation data for jV and Jmol> is completed.
+
+Successfully finished!!

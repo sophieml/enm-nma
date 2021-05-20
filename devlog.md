@@ -1,6 +1,28 @@
 # Elastic Network Model - Normal Mode Analysis from PDB data
 
 ## Sophie Li
+
+### 05/12/21
+
+Final project update
+
+So far, I have begun writing scripts to run the CP2K vibrational analysis. I decided to use a third-party binary, so I am using PYCP2K to modify a template file that I have set up. One concern I have is that even energy minimization/geometric optimization takes a long time for even small molecules (~15 minutes on my laptop for a water molecule). Another concern I have is that the binary I'm using sometimes runs into segmentation faults when used with valid input files (the analysis will run once, but not again, even after deleting output files). However, I believe that I can at least create a pipeline to produce the working final input files.
+
+Outline (from FP presentation)
+
+- **In progress**: PYCP2K: Generate vibrational analysis
+  - Load PDB file
+    - ASE module -> convert PDB to XYZ
+    - Write into template file
+  - Run vibrational analysis according to TAMkin 
+    - Step 1: Write XYZ file for geometry optimization (includes energy)
+    - Step 2: Run vibrational analysis
+    - Add coords, basis, potential constants from XYZ file (write script to add basis and potential to input file)
+    - Write out CP2K file
+  - TAMkin: Run NMA on generated CP2K file
+  - Plot fluctuation data
+  - **IF TIME** compare to dihedral ENM analysis using PDBETA
+
 ### 05/03/21
 - Wrote most methods for tree construction (parse input, find covalent bonds, break cycles in each residue)
 - current usage: `python src/build_graphs.py path/to/input.cif path/to/radii.cif` (use depends on activating conda environment)

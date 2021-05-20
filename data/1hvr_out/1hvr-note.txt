@@ -1,0 +1,25 @@
+PDB file name : C:\Users\smith\Documents\work\csc334\enm-nma\data\1hvr.pdb
+
+Chains and HETATMs selected: 
+  ATOM        A
+
+Normal mode analysis calculation
+
+Parameters of potential energies:
+  E(d) = A*exp(-d(PDB)**2/B**2)(d-d(PDB))**2  for 1-4 and 1-5 interactions.
+  E(d) = A*(d-d(PDB))**2  for a chemical bond treated with a loop-closing
+  potential such as a disulfide bond and one of the bonds in the DNA and RNA
+  sugar ring. d and d(PDB) are distances between atoms in calculation and 
+  in PDB data, respectively.
+
+  Interaction        A       B      Cutoff distance (A)
+    1-4             1.00    5.00      100.00
+    1-5             1.00    5.00      100.00
+    Loop-closing  100.00
+
+Temperature adjustment by magnitude of fluctuation:
+  Set to mean displacements of atoms       0.500 A
+
+Animation
+  No. of frames: 11
+  Mean displacements (A):    0.50

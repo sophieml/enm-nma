@@ -1,0 +1,34 @@
+PDB file name : C:\Users\smith\Documents\work\csc334\enm-nma\data\1hhp.pdb
+
+Chains and HETATMs selected: 
+  ATOM        A
+
+The following atoms are removed from PDB data on concern that they may have 
+abnormally large fluctuations, because they interact with few atoms.
+  ATOM     68  CG  ARG A   8      37.584  51.732  -0.660  1.00 23.11           C  
+  ATOM     69  CD  ARG A   8      36.449  51.269  -1.532  1.00 27.73           C  
+  ATOM     70  NE  ARG A   8      35.723  50.113  -1.025  1.00 31.19           N  
+  ATOM     71  CZ  ARG A   8      34.915  50.120   0.047  1.00 33.17           C  
+  ATOM     72  NH1 ARG A   8      34.765  51.137   0.903  1.00 35.98           N  
+  ATOM     73  NH2 ARG A   8      34.235  49.016   0.305  1.00 37.95           N  
+
+Normal mode analysis calculation
+
+Parameters of potential energies:
+  E(d) = A*exp(-d(PDB)**2/B**2)(d-d(PDB))**2  for 1-4 and 1-5 interactions.
+  E(d) = A*(d-d(PDB))**2  for a chemical bond treated with a loop-closing
+  potential such as a disulfide bond and one of the bonds in the DNA and RNA
+  sugar ring. d and d(PDB) are distances between atoms in calculation and 
+  in PDB data, respectively.
+
+  Interaction        A       B      Cutoff distance (A)
+    1-4             1.00    5.00      100.00
+    1-5             1.00    5.00      100.00
+    Loop-closing  100.00
+
+Temperature adjustment by magnitude of fluctuation:
+  Set to mean displacements of atoms       0.500 A
+
+Animation
+  No. of frames: 11
+  Mean displacements (A):    0.50
